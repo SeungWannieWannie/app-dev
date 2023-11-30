@@ -14,7 +14,7 @@
 
 - Interstellar
   > Movie about space and time travel
-![Interstellar]([https://i.ebayimg.com/images/g/m88AAOSwtC1gr5ry/s-l400.jpg](https://i.pinimg.com/736x/8e/0d/ab/8e0dab8699be85720ce55845065bf6dc.jpg))
+![Interstellar]([https://i.ebayimg.com/images/g/m88AAOSwtC1gr5ry/s-l400.jpg](https://i.pinimg.com/736x/8e/0d/ab/8e0dab8699be85720ce55845065bf6dc.jpg)
 
 - Pacific Rim
   > Movie about Monsters VS Giant Robots 
@@ -36,7 +36,7 @@
 
 - Love Live
   > An Anime about *School Idols*
-![Love Live]([https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Love_Live%21_promotional_image.jpg/220px-Love_Live%21_promotional_image.jpg](https://m.media-amazon.com/images/M/MV5BNDMxMjU1M2YtOGNjNS00N2U3LWFlNzgtOTRmNTU1ZTJjNWM4XkEyXkFqcGdeQXVyMTM3NDc1OTM2._V1_FMjpg_UX1000_.jpg))
+![Love Live]([https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Love_Live%21_promotional_image.jpg/220px-Love_Live%21_promotional_image.jpg](https://m.media-amazon.com/images/M/MV5BNDMxMjU1M2YtOGNjNS00N2U3LWFlNzgtOTRmNTU1ZTJjNWM4XkEyXkFqcGdeQXVyMTM3NDc1OTM2._V1_FMjpg_UX1000_.jpg)
 
 - Summertime Rendering
   > An Anime about Time Travelling 
